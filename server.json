@@ -1,20 +1,12 @@
 {
   "foods": [
     {
-      "id": 1,
-      "name": "Ao molho",
-      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
-      "price": "19.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
-    },
-    {
+      "image": "https://cdn.discordapp.com/avatars/300761220875681792/7f3626b20d2dbe8698c45fd062fc2bdf.png?size=512",
+      "name": "nbnnnnnnnnnnnnnnnnnnn",
+      "price": "4",
+      "description": "bbbbbba",
       "id": 2,
-      "name": "Veggie",
-      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "price": "21.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+      "available": true
     },
     {
       "id": 3,
@@ -23,6 +15,22 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "name": "Macarrone",
+      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
+      "price": "19.90",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "id": 5,
+      "available": true
+    },
+    {
+      "image": "https://cdn.discordapp.com/avatars/300761220875681792/7f3626b20d2dbe8698c45fd062fc2bdf.png?size=512",
+      "name": "asdasdad",
+      "price": "131",
+      "description": "bbbbbba",
+      "id": 7,
+      "available": true
     }
   ]
 }
